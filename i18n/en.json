@@ -1,0 +1,56 @@
+
+{
+  "home": {
+    "title": "BANK",
+    "searchPlaceholder": "Search...",
+    "button": "Add",
+    "emptyMessage": "No data available",
+    "emptyDescription": "Swipe down to refresh"
+  },
+  "details": {
+    "title": "BANK",
+    "id": "ID:",
+    "description": "Extra Information",
+    "nameLabel": "Name",
+    "descriptionLabel": "Description",
+    "logoLabel": "Logo",
+    "dateReleaseLabel": "Release Date",
+    "dateRevisionLabel": "Revision Date",
+    "editButton": "Edit",
+    "deleteButton": "Delete",
+    "deleteMessage": "Are you sure you want to delete the product: {{name}}?"
+  },
+  "form": {
+    "title": "BANK",
+    "createHeader": "Registration Form",
+    "editHeader": "Edit",
+    "idLabel": "ID",
+    "idRequired": "Invalid ID",
+    "nameLabel": "Name",
+    "nameRequired": "Invalid Name",
+    "descriptionLabel": "Description",
+    "descriptionRequired": "Invalid Description",
+    "logoLabel": "Logo",
+    "logoRequired": "Invalid Logo",
+    "releaseDateLabel": "Release Date",
+    "dateReleaseRequired": "Invalid Release Date",
+    "revisionDateLabel": "Revision Date",
+    "dateRevisionRequired": "Invalid Revision Date",
+    "dateGraterThanNow": "Date must be greater than current date",
+    "dateFormatCaption": "Format: dd/mm/yyyy. Eg: 31/12/2020",
+    "submitButton": "Submit",
+    "resetButton": "Reset",
+    "addButton": "Add",
+    "idMinLength": "ID must be at least 3 characters",
+    "idMaxLength": "ID must be at most 10 characters",
+    "nameMinLength": "Name must be at least 5 characters",
+    "nameMaxLength": "Name must be at most 100 characters",
+    "descriptionMinLength": "Description must be at least 10 characters",
+    "descriptionMaxLength": "Description must be at most 200 characters",
+    "idAsyncError": "ID already exists",
+    "successMessage": "Your information has been updated successfully"
+  },
+  "utils": {
+    "successRegister": "Registration Successful"
+  }
+}

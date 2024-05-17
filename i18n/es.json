@@ -1,0 +1,55 @@
+{
+  "home": {
+    "title": "BANCO",
+    "searchPlaceholder": "Search...",
+    "button": "Agregar",
+    "emptyMessage": "No hay datos disponibles",
+    "emptyDescription": "Deslice hacia abajo para actualizar"
+  },
+  "details": {
+    "title": "BANCO",
+    "id": "ID:",
+    "description": "Información extra",
+    "nameLabel": "Nombre",
+    "descriptionLabel": "Descripción",
+    "logoLabel": "Logo",
+    "dateReleaseLabel": "Fecha de liberación",
+    "dateRevisionLabel": "Fecha de revisión",
+    "editButton": "Editar",
+    "deleteButton": "Eliminar",
+    "deleteMessage": "¿Estás seguro de que deseas eliminar el producto: {{name}}?"
+  },
+  "form": {
+    "title": "BANCO",
+    "createHeader": "Formulario de Registro",
+    "editHeader": "Editar",
+    "idLabel": "ID",
+    "idRequired": "ID no válido",
+    "nameLabel": "Nombre",
+    "nameRequired": "Nombre no válido",
+    "descriptionLabel": "Descripción",
+    "descriptionRequired": "Descripción no válida",
+    "logoLabel": "Logo",
+    "logoRequired": "Logo no válido",
+    "releaseDateLabel": "Fecha de liberación",
+    "dateReleaseRequired": "Fecha de liberación no válida",
+    "revisionDateLabel": "Fecha de revisión",
+    "dateRevisionRequired": "Fecha de revisión no válida",
+    "dateGraterThanNow": "La fecha debe ser mayor que la fecha actual",
+    "dateFormatCaption": "Formato: dd/mm/yyyy. Ej: 31/12/2020",
+    "submitButton": "Enviar",
+    "resetButton": "Reiniciar",
+    "addButton": "Agregar",
+    "idMinLength": "El ID debe tener al menos 3 caracteres",
+    "idMaxLength": "El ID debe tener como máximo 10 caracteres",
+    "nameMinLength": "El nombre debe tener al menos 5 caracteres",
+    "nameMaxLength": "El nombre debe tener como máximo 100 caracteres",
+    "descriptionMinLength": "La descripción debe tener al menos 10 caracteres",
+    "descriptionMaxLength": "La descripción debe tener como máximo 200 caracteres",
+    "idAsyncError": "El ID ya existe",
+    "successMessage": "Se ha actualizado su información correctamente"
+  },
+  "utils": {
+    "successRegister": "Registro exitoso"
+  }
+}
